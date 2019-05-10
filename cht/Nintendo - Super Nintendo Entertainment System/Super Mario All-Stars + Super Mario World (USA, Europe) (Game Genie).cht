@@ -1,4 +1,4 @@
-cheats = 14
+cheats = 16
 
 cheat0_desc = "SMB Infinite lives"
 cheat0_code = "C2C1-D4AA"
@@ -56,10 +56,10 @@ cheat13_desc = "SMW Push Select Yoshi changes color"
 cheat13_code = "ED60-632D"
 cheat13_enable = false
 
-cheat13_desc = "SMW Infinite Time (Don't use it always)"
-cheat13_code = "C264-63D7"
-cheat13_enable = false
+cheat14_desc = "SMW Infinite Time (Don't use it always)"
+cheat14_code = "C264-63D7"
+cheat14_enable = false
 
-cheat13_desc = "SMW Yoshi's ifinite time flying"
-cheat13_code = "C2EC-0E00"
-cheat13_enable = false
+cheat15_desc = "SMW Yoshi's ifinite time flying"
+cheat15_code = "C2EC-0E00"
+cheat15_enable = false
